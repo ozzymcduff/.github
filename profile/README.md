@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-🙋‍♀️ A short introduction - @OzzyMcDuff is the archive account for repositories from @WallyMathieu.
-🌈 Contribution guidelines - You are of course welcome to contribute. Any help is welcome.
++ 🙋‍♀️ A short introduction - @OzzyMcDuff is the archive account for repositories from @WallyMathieu.
++ 🌈 Contribution guidelines - You are of course welcome to contribute. Any help is welcome.
 
