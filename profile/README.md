@@ -11,6 +11,25 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-+ 🙋‍♀️ A short introduction - @OzzyMcDuff is the archive account for repositories from @WallyMathieu.
++ 🙋‍♀️ A short introduction - [@OzzyMcDuff](https://github.com/ozzymcduff) is the archive account for repositories from [@WallyMathieu](https://github.com/wallymathieu).
 + 🌈 Contribution guidelines - You are of course welcome to contribute. Any help is welcome.
+
+### Legacy examples
+
+Some of the projects have been used as sample of "legacy" technology since it was a while since they got created. In particular we have these that got started based on example from Galasoft that demonstrated WPF with WCF. I've since used it as a simple example in the line of TodoMVC and TodoMVC backend (but mostly using xml for transport).
+
+- [customer-service](https://github.com/ozzymcduff/customer-service)
+- [customer-client-react](https://github.com/ozzymcduff/customer-client-react)
+- [customer-client-angular2](https://github.com/ozzymcduff/customer-client-angular2)
+- [customer-client-knockout](https://github.com/ozzymcduff/customer-client-knockout)
+
+Using XML for transport has some interesting implications since JSON has since become the defacto standard for Web API's.
+
+### Smileynoise
+
+A twitter clone but only for smileys instead of a limited amount of characters:
+
+- [smileynoise-ruby](https://github.com/ozzymcduff/smileynoise-ruby)
+- [smileynoise](https://github.com/ozzymcduff/smileynoise)
+
 
