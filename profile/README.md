@@ -30,6 +30,13 @@ Using XML for transport has some interesting implications since JSON has since b
 A twitter clone but only for smileys instead of a limited amount of characters:
 
 - [smileynoise-ruby](https://github.com/ozzymcduff/smileynoise-ruby)
-- [smileynoise](https://github.com/ozzymcduff/smileynoise)
+- [smileynoise](https://github.com/ozzymcduff/smileynoise) Python web site written on App engine.
 
+### log4net
 
+Before we had things like [Kibana](https://www.elastic.co/kibana) you had to manage file based logs. I had used log4net in many projects:
+
+- [log4net-logviewer](https://github.com/ozzymcduff/log4net-logviewer)
+- [ElasticElmah](https://github.com/ozzymcduff/ElasticElmah)
+
+Since then we have seen the rise of many logging frameworks and particularly [Microsoft.Extensions.Logging](https://learn.microsoft.com/en-us/dotnet/api/microsoft.extensions.logging).
