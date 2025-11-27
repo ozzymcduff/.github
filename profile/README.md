@@ -25,13 +25,6 @@ Some of the projects have been used as sample of "legacy" technology since it wa
 
 Using XML for transport has some interesting implications since JSON has since become the defacto standard for Web API's.
 
-### Smileynoise
-
-A twitter clone but only for smileys instead of a limited amount of characters:
-
-- [smileynoise-ruby](https://github.com/ozzymcduff/smileynoise-ruby)
-- [smileynoise](https://github.com/ozzymcduff/smileynoise) Python web site written on App engine.
-
 ### log4net
 
 Before we had things like [Kibana](https://www.elastic.co/kibana) you had to manage file based logs. I had used log4net in many projects:
